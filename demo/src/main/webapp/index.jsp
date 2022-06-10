@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>index</h1>
 	<h2>메인 페이지</h2>
 	<h3>by chief</h3>
+	<h1>index 페이지입니다</h1>
+	<p>by hong</p>
 </body>
 </html>
